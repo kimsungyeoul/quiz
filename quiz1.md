@@ -2,7 +2,7 @@
 
 ### 📍 Part 1. 기본 개념 (객관식)
 
-**1.** 다음 중 자바에서 클래스 선언이 올바른 것은? <br> c
+**1.** 다음 중 자바에서 클래스 선언이 올바른 것은? <br> 
 A. `class myclass {}` <br>
 B. `Class MyClass {}` <br>
 C. `public class MyClass {}` <br>
@@ -10,7 +10,7 @@ D. `public MyClass class {}` <br>
 
 ---
 
-**2.** 다음 중 *필드(Field)* 에 대한 설명으로 옳은 것은? <br> a
+**2.** 다음 중 *필드(Field)* 에 대한 설명으로 옳은 것은? <br>
 A. 클래스 내에서 선언되며, 객체의 상태를 저장한다. <br>
 B. 메서드 내부에서 선언되어야 한다. <br>
 C. 반드시 `public` 이어야 한다. <br>
